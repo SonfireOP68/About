@@ -1,17 +1,20 @@
-<h3 align="center">I am a python developer that is looking into pretesting and bug bounty.</h3>
+<h1 align="center">Hi there! 👋</h1>
+
+<h3 align="center">I'm a Python developer passionate about pretesting and bug bounty hunting.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonfireop68&label=Profile%20views&color=0e75b6&style=flat" alt="sonfireop68" /> </p>
 
-- 🔭 I’m currently working on python projects for my discord server. [SubSeekerPro](https://github.com/SonfireOP68/SubSeekerPro)
+- 🔭 I’m currently working on Python projects for my Discord server, [SubSeekerPro](https://github.com/SonfireOP68/SubSeekerPro).
 
-- 🌱 I’m currently learning **Hackthebox and Tryhackme**
+- 🌱 I’m currently diving into **Hackthebox and Tryhackme** to enhance my skills.
 
-- 💬 Ask me about **Python and cyber security**
+- 💬 Feel free to ask me about anything related to **Python and cybersecurity**.
 
-- ⚡ Fun fact **I am the founder of a discord community by the name of BHU.**
+- ⚡ Fun fact: I'm the proud founder of a Discord community named BHU.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <!-- Add your social media links here -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
