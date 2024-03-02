@@ -10,6 +10,8 @@
 
 - 💬 Feel free to ask me about anything related to **Python and cybersecurity**.
 
+- 📫 Reach me on Discord: sonfireop68#quakefire_5g.
+
 - ⚡ Fun fact: I'm the proud founder of a Discord community named BHU.
 
 <h3 align="left">Connect with me:</h3>
